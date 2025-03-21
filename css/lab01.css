@@ -1,0 +1,28 @@
+/* Fondo azul en toda la página */
+body {
+    background-color: rgb(173, 189, 230);
+    text-align: left;
+    padding: 20px;
+}
+
+/* Estilo del título principal */
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+}
+
+/* Texto azul para el primer párrafo */
+.blue-text {
+    color: blue;
+    font-size: 20px;
+}
+
+/* Fondos rojos para los otros párrafos */
+.red-background {
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+}
