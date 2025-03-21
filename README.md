@@ -1,2 +1,2 @@
-# lab01
-Este repositorio contiene el lab01 del curso de Ingeniería Web.
+# iw-25a
+Este repositorio contiene los laboratorios del curso de Ingeniería Web.
